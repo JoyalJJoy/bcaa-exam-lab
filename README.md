@@ -1,2 +1,2 @@
 # bcaa-exam-lab
-sample
+sample is not sample
